@@ -1,0 +1,36 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.7' does not exist -- can't clean it
+running sdist
+running egg_info
+creating Demo.egg-info
+writing Demo.egg-info/PKG-INFO
+writing dependency_links to Demo.egg-info/dependency_links.txt
+writing namespace_packages to Demo.egg-info/namespace_packages.txt
+writing top-level names to Demo.egg-info/top_level.txt
+writing manifest file 'Demo.egg-info/SOURCES.txt'
+reading manifest file 'Demo.egg-info/SOURCES.txt'
+writing manifest file 'Demo.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: Check: missing required meta-data: url
+
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating Demo-1.0.dev0
+creating Demo-1.0.dev0/Demo.egg-info
+copying files to Demo-1.0.dev0...
+copying helloworld.py -> Demo-1.0.dev0
+copying setup.py -> Demo-1.0.dev0
+copying Demo.egg-info/PKG-INFO -> Demo-1.0.dev0/Demo.egg-info
+copying Demo.egg-info/SOURCES.txt -> Demo-1.0.dev0/Demo.egg-info
+copying Demo.egg-info/dependency_links.txt -> Demo-1.0.dev0/Demo.egg-info
+copying Demo.egg-info/namespace_packages.txt -> Demo-1.0.dev0/Demo.egg-info
+copying Demo.egg-info/top_level.txt -> Demo-1.0.dev0/Demo.egg-info
+copying Demo.egg-info/zip-safe -> Demo-1.0.dev0/Demo.egg-info
+Writing Demo-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'Demo-1.0.dev0' (and everything under it)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="helloworld_tests.HelloWorldTest-20190411034254" skipped="0" tests="1" time="0.001" timestamp="2019-04-11T03:42:54">
+	<testcase classname="helloworld_tests.HelloWorldTest" name="test_should_issue_hello_world_message" time="0.001" timestamp="2019-04-11T03:42:54"/>
+	<system-out>
+<![CDATA[Hello World
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
